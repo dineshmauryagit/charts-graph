@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chart-script.js": "/js/chart-script.js",
+    "/js/line-chart.js": "/js/line-chart.js",
+    "/js/doughnut-chart.js": "/js/doughnut-chart.js",
+    "/js/cubic-line-chart.js": "/js/cubic-line-chart.js",
+    "/js/bar-chart.js": "/js/bar-chart.js",
+    "/js/line-chart-2.js": "/js/line-chart-2.js",
+    "/css/app.css": "/css/app.css"
+}
